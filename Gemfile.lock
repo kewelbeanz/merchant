@@ -53,7 +53,7 @@ GEM
     mime-types (1.25.1)
     minitest (4.7.5)
     multi_json (1.8.2)
-    oauth (0.4.7)
+    oauth (>= 0.5.5)
     omniauth (>=1.9.1)
       hashie (>= 1.2, < 3)
       rack
